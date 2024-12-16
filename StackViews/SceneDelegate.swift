@@ -1,7 +1,6 @@
 //
 //  SceneDelegate.swift
 //  StackViews
-//
 //  Created by Andrei Deshin on 05.11.24.
 //
 
